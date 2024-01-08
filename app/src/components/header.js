@@ -1,7 +1,7 @@
 function CodedPoetry({ text }) {
   return (
     <div className="border-2 mx-auto py-2">
-      <h1 className="text-center text-6xl">
+      <h1 className="text-center text-5xl">
         <code className="italic"> &lt;{text}&gt; </code>
       </h1>
     </div>
