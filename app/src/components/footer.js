@@ -4,17 +4,17 @@ function Footer() {
                 <p className="text-sm">&copy; 2024 Sameer Malik</p>
                 <ul className="flex space-x-4">
                   <li>
-                    <a href="#" className="hover:text-gray-200">
+                    <a href="#" className="hover:text-gray-400">
                       About
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:text-gray-200">
+                    <a href="#" className="hover:text-gray-400">
                       Contact
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:text-gray-200">
+                    <a href="#" className="hover:text-gray-400">
                       Terms
                     </a>
                   </li>
